@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <!-- <a href="https://github.com/Camden-Kirkpatrick"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/></a>&nbsp;<a href="https://linkedin.com/in/camdenckirkpatrick"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/></a>&nbsp;<a href="https://youtube.com/channel/UCmUhVEKNBBCcfF2ithBuwew"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="48" height="48"/></a> -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Camden-Kirkpatrick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camdenckirkpatrick) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCmUhVEKNBBCcfF2ithBuwew)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camdenckirkpatrick) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCmUhVEKNBBCcfF2ithBuwew)
 
 <h3 align="left">Languages and Tools:</h3>
 
