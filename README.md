@@ -26,6 +26,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,cs,java,js,html,css,git,mysql,postman,cmake,fastapi&perrow=13)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=camden-kirkpatrick&show_icons=true&locale=en&layout=compact" alt="camden-kirkpatrick" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Camden-Kirkpatrick&" alt="Camden-Kirkpatrick" /></p>
