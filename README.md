@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **camdenckirkpatrick@gmail.com**
 
-- 📄 Know about my experience: **[Resume](https://docs.google.com/document/d/1AtRdod1556pqUj7DMGFaq6guAeyZQrsn2CSLwqAUR4Q/edit?tab=t.0)**
+- 📄 Know about my experience: **[Resume](https://camden-kirkpatrick.github.io/Camden-Kirkpatrick/resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 
