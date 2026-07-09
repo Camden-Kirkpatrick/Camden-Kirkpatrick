@@ -4,7 +4,7 @@
 
 - 🔭 What I'm working on now: **[terraria_clone](https://github.com/Camden-Kirkpatrick/terraria_clone)**
 
-- 🌱 What I'm learning now: **Game Development and ReactJS**
+- 🌱 What I'm learning now: **Game Development and AI**
 
 - 📫 How to reach me: **camdenckirkpatrick@gmail.com**
 
